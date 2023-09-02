@@ -1,0 +1,8 @@
+[2023-08-30 14:04:07 INFO]: install::setup-logging ended
+================
+[2023-08-30 14:04:07 INFO]: install::start-up started
+[2023-08-30 14:04:07 INFO]: install::start-up setting display permissions to localhost
+[2023-08-30 14:04:07 INFO]: install::start-up build image
+[2023-08-30 14:04:07 INFO]: install::start-up running image
+[2023-08-30 14:04:07 INFO]: install::start-up ended
+================
